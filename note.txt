@@ -1,0 +1,76 @@
+The power of React
+Anatomy
+Styling
+Hooks, Props and State
+Component Rendering and Side Effects
+Conditional Rendering and Share State
+Context and Navigation
+User Input and Forms
+Application Design
+
+-------
+
+sag parmak = sag beyin 
+(kitaplari zor okur)
+duygusal baglamlar olan kitaplar
+gorseller ile anlatilan kitaplar okunabilir
+
+sol parmak = sol beyin
+(kitaplari rahat okur)
+
+
+konsantre olamk icin:
+30 saniye parmagina bak
+
+icinden sesi bir sekilde okuma, seslendirmeden
+her kitabi sonuna kadar okuma, sikilinca devam etme.
+ingilizce daha fazla kaynak var.
+
+aliskanlik:
+netflix seviyorsan 45 dakika kitap okursan netflix ile odullendir.
+(beynini manipule ediyorsun)
+
+okudugunu unutmamak icin:
+not alabilirsin (e-book reader ile kolay yapiyor)
+arada, bos zamanlarda goz atilabilir.
+
+kitabin tamamini okumaya gerek yok,
+icindekiler kismina bakip sevdigin kismi okuyabilirsin.
+ayni anda birkac kitap oku.
+
+oneri kitaplar:
+incognito
+hizli ve yavas dusunme
+outliers
+akil disi ama on gorulebilir
+mutluluk hipotesleri
+30-seconds
+
+----------------
+----------------
+
+noromitler 3?
+
+sag beyin yaratici sol beyin muhendislik diye birsey yok.
+birlike calismadan hicbir is yapamazlar.
+
+tahminde sag beyin calisiyor
+
+okurken sol beyin, yazar ne demek istedi sag beyin.
+
+bir proje hayal ettin sag beyin, gerceklestirirken sol beyin.
+
+beynin iki lobununda calismasi gerekir.
+
+
+
+
+
+
+
+
+
+
+
+
+
